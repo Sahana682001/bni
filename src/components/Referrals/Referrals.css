@@ -1,0 +1,45 @@
+/* Wrapper that enables scroll on overflow */
+.referral-table-wrapper {
+  width: 100%;
+ 
+}
+
+/* Table itself should have a min-width */
+.referral-table {
+ 
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px;
+}
+
+/* Table headers */
+.referral-table th {
+  background-color: #fff;
+  color: #d00000;
+  text-align: left;
+  /* padding: 12px 16px; */
+  font-size: 18px;
+  /* border-bottom: 2px solid #eee; */
+  white-space: nowrap; /* Prevent header text from wrapping */
+}
+
+/* Table body cells */
+.referral-table td {
+  background-color: #fff;
+  padding: 14px 16px;
+  font-size: 14px;
+  color: #333;
+  vertical-align: middle;
+  /* border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0; */
+  white-space: nowrap; /* Keep cell contents in one line */
+}
+
+/* Zebra striping */
+.referral-table tbody tr:nth-child(even) td {
+  background-color: #EDF0F5;
+}
+
+.referral-table tbody tr:nth-child(odd) td {
+  background-color: #ffffff;
+}

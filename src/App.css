@@ -1,0 +1,45 @@
+.app-container {
+  /* width: 1080px; */
+  height: 1920px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  background: #fff;
+}
+
+
+.grey-color {
+  color: #6D737A;
+}
+
+.red-color {
+  color: #CC2030;
+}
+
+.container {
+  padding: 0 40px !important;
+}
+
+
+
+@media screen and (max-width: 768px) {
+  .app-container {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .tab-wrapper {
+    padding: 20px;
+  }
+
+  .footer {
+    padding-top: 60px;
+  }
+}
+
+#dashboard {
+  width: 100% !important;
+}
+
+

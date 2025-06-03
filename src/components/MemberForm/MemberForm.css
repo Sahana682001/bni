@@ -1,0 +1,312 @@
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* semi-transparent backdrop */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.member-form-modal {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  max-height: 90vh;
+  overflow-y: auto;
+  width: 90%;
+  max-width: 800px;
+  position: relative;
+  z-index: 1001;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+/* Form */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+/* Form Groups */
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-group label {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  transition: border-color 0.2s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+/* Checkbox Group */
+.tab-checkboxes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.tab-checkboxes label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* Form Actions */
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.cancel-btn,
+.save-btn {
+  padding: 0.6rem 1.4rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.cancel-btn {
+  background-color: #ccc;
+  color: #333;
+}
+
+.cancel-btn:hover {
+  background-color: #b3b3b3;
+}
+
+.save-btn {
+  background-color: #007bff;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.save-btn:hover {
+  background-color: #0056b3;
+}
+
+.member-form-container {
+  position: relative;
+}
+
+.member-form-open-button {
+  background-color: #3b82f6;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  border: none;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.member-form-open-button:hover {
+  background-color: #2563eb;
+}
+
+.member-form-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.member-form-modal {
+  background: white;
+  border-radius: 0.5rem;
+  width: 90%;
+  max-width: 56rem;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.member-form-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.member-form-modal-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.member-form-close-button {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #6b7280;
+  padding: 0.25rem;
+}
+
+.member-form-close-button:hover {
+  color: #374151;
+}
+
+.member-form {
+  padding: 1.5rem;
+}
+
+.member-form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.member-form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.member-form-field label {
+  font-weight: 500;
+  color: #374151;
+}
+
+.member-form-field input {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+  font-size: 1rem;
+}
+
+.member-form-section {
+  margin-bottom: 1.5rem;
+}
+
+.member-form-section > label {
+  display: block;
+  font-weight: 500;
+  color: #374151;
+  margin-bottom: 0.5rem;
+}
+
+.member-form-array-item {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+}
+
+.member-form-array-item.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5rem;
+}
+
+.member-form-array-item input {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+}
+
+.member-form-add-button,
+.member-form-remove-button {
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.member-form-add-button {
+  background-color: #e5e7eb;
+  border: 1px solid #d1d5db;
+  color: #374151;
+}
+
+.member-form-add-button:hover {
+  background-color: #d1d5db;
+}
+
+.member-form-remove-button {
+  background-color: #fee2e2;
+  border: 1px solid #fecaca;
+  color: #b91c1c;
+}
+
+.member-form-remove-button:hover {
+  background-color: #fecaca;
+}
+
+.member-form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+}
+
+.member-form-cancel-button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  background-color: #e5e7eb;
+  border: 1px solid #d1d5db;
+  color: #374151;
+  cursor: pointer;
+}
+
+.member-form-cancel-button:hover {
+  background-color: #d1d5db;
+}
+
+.member-form-submit-button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  background-color: #3b82f6;
+  border: 1px solid #3b82f6;
+  color: white;
+  cursor: pointer;
+}
+
+.member-form-submit-button:hover {
+  background-color: #2563eb;
+}

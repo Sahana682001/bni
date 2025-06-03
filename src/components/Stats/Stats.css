@@ -1,0 +1,47 @@
+.stats-card {
+    display: flex;
+    justify-content: space-around;
+    background-color: #5a5d61;
+    padding: 20px;
+    color: white;
+    flex-wrap: wrap; /* responsive */
+  }
+  
+  .stat-item {
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .stat-item h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .stat-item p {
+    margin-top: 8px;
+    font-size: 14px;
+  }
+
+@media screen and (max-width: 768px) {
+      .stats-card {
+        flex-direction: column;
+        flex-wrap: wrap;
+      }
+
+        .stat-item {
+    text-align: left;
+    margin: 10px;
+  }
+
+  .tabs-header {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .tab  {
+    text-align: left;
+  }
+}
+
+  

@@ -1,0 +1,5 @@
+.login-image {
+  background-image: url('/images/login-group.jpg'); /* 🔁 Place image in public/images folder */
+  background-size: cover;
+  background-position: center;
+}

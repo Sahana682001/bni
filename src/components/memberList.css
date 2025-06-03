@@ -1,0 +1,39 @@
+.member-list {
+    padding: 1rem;
+  }
+  
+  .members-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+  }
+  
+  .member-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .member-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .member-card h3 {
+    margin-top: 0;
+    color: #2c3e50;
+  }
+  
+  .member-card p {
+    margin: 0.5rem 0;
+    color: #555;
+  }
+  
+  .member-card .industry {
+    font-style: italic;
+    color: #7f8c8d;
+  }
