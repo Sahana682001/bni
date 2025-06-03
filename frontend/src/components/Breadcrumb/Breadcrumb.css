@@ -1,0 +1,26 @@
+/* Add to your CSS */
+.breadcrumbs {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 0;
+    font-size: 14px;
+  }
+  
+  .breadcrumb-link {
+    color: #8F8F8F;
+    text-decoration: none;
+    transition: color 0.2s;
+    font-size: 16px;
+  }
+  
+  
+  .breadcrumb-current {
+    color: #CC2030;
+    font-weight: 700;
+    font-size: 14px;
+  }
+  
+  .breadcrumb-separator {
+    color: #9ca3af;
+  }

@@ -1,0 +1,17 @@
+{
+  "_id": { "$oid": "682197f9e08fefcdc73f3b72" },
+  "username": "admin",
+  "password": "$2b$10$/tOlbSnnG76JxyGuWI5p5udtIE/39EFr05yv/Q/268IQ6a5bhHxY2",
+  "firstName": "Radhakrishna",
+  "lastName": "Mani",
+  "businessCategory": "Marketing and Software Solutions",
+  "companyName": "Digiworq",
+  "dob": { "$date": "1980-05-15T00:00:00.000Z" },
+  "phone": "+91 8880088944",
+  "email": "rk@digiworq.com",
+  "website": "https://www.digiworq.com/",
+  "description": "Helping businesses grow through marketing and technology.",
+  "profileImage": "https://revulonpaints.com/bniImages/profiles/rk.png",
+  "createdAt": { "$date": "2025-05-12T06:40:57.694Z" },
+  "__v": 0
+}

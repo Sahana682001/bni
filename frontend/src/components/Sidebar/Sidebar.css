@@ -1,0 +1,50 @@
+/* components/Sidebar.css */
+.sidebar {
+  width: 250px;
+  height: 100vh;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-bottom: 30px;
+  color: #d6001c;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  transition: 0.2s;
+}
+
+.sidebar ul li.active,
+.sidebar ul li:hover {
+  background-color: #d6001c; /* deep red */
+  color: white;
+  box-shadow: 0 4px 10px rgba(214, 0, 28, 0.2);
+}
+
+.main {
+  display: flex;
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar {
+  height: auto;
+  width: auto;
+}
+
+
+}

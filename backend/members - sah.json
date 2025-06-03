@@ -1,0 +1,987 @@
+[
+    {
+      "tabs": ["leadershipTeam", "ourMembers"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Membership Committee"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Events"
+        }
+      ],
+      "personImage": "https://example.com/images/john-doe.jpg",
+      "businessLogo": "https://example.com/logos/doe-studios.png",
+      "personName": "Praveen Kumar Jain",
+      "businessName": "Praveen Diamonds & Jewellery",
+      "businessCategory": "Diamond Gold & Jewellery",
+      "category": "Jewellery",
+      "companyName": "Praveen Diamonds & Jewellery",
+      "phoneNumber": "+91 88678 08334",
+      "emailId": " kumarp55024@gmail.com",
+      "website": "No",
+      "aboutHeading": "Crafting Elegance with Timeless Jewellery",
+      "aboutPara": "The Diamond, Gold & Jewellery category in our BNI network brings together master artisans and trusted jewellers dedicated to crafting beauty, luxury, and legacy. These members offer a stunning range of bespoke and ready-made jewellery—from timeless engagement rings and bridal collections to modern everyday elegance. With an emphasis on ethical sourcing, certified authenticity, and exquisite craftsmanship, our members deliver unmatched value and trust. Whether you're looking for investment-grade pieces or personalized designs for special occasions, this category is where artistry meets professionalism, ensuring every creation becomes a cherished memory.",
+      "statistics": [
+        { "number": "250+", "text": "Projects Completed" },
+        { "number": "10", "text": "Years in Business" },
+        { "number": "30+", "text": "Team Members" },
+        { "number": "100%", "text": "Client Satisfaction" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-gem", "name": "Custom Jewellery Design", "description": "Create one-of-a-kind pieces tailored to your taste, using high-quality diamonds and gold." },
+        { "icon": "fa-solid fa-gem", "name": "Engagement Rings", "description": "Design your perfect engagement ring with a wide selection of diamonds and precious metals." },
+        { "icon": "fa-solid fa-gem", "name": "Wedding Bands", "description": "Choose from a variety of elegantly crafted wedding bands for both men and women." },
+        { "icon": "fa-solid fa-gem", "name": "Gemstone & Diamond Sourcing", "description": "Source ethically mined diamonds and gemstones, ensuring quality and authenticity." },
+        { "icon": "fa-solid fa-gem", "name": "Jewellery Repair & Restoration", "description": "Expert jewellery repair and restoration services to bring your cherished pieces back to life." },
+        { "icon": "fa-solid fa-gem", "name": "Gold & Silver Buying", "description": "Buy or sell gold, silver, and platinum with competitive prices and reliable service." }
+      ],
+      "photos": [
+        "https://example.com/photos/photo1.jpg",
+        "https://example.com/photos/photo2.jpg"
+      ]
+    },
+
+
+    {
+     "tabs": ["leadershipTeam", "ourMembers"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Secretary Treasurer"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Facilities"
+        }
+      ],
+      "personImage": "https://example.com/images/sarah-smith.jpg",
+      "businessLogo": "https://example.com/logos/smith-tech.png",
+      "personName": "Bharadwaj B",
+      "businessName": "Phoenix Procurements Company",
+      "businessCategory": "Generators & Compressors",
+      "category": "Mechanical & Electrical Equipment",
+      "companyName": "Phoenix Procurements Company",
+      "phoneNumber": "+91 98440 22276",
+      "emailId": "phoenixpro88@gmail.com",
+      "website": "No",
+      "role": "Secretary Treasurer",
+      "aboutHeading": "Reliable Power Solutions with Generators & Compressors",
+      "aboutPara": "Generators and compressors are essential for maintaining operational efficiency in various industries, providing reliable power and air compression solutions for a range of applications. Whether it’s for backup power in homes and businesses or for driving heavy-duty machinery in industrial settings, these systems are designed for reliability and longevity. Offering a diverse selection of high-performance generators and air compressors, businesses in this category specialize in both sales and maintenance services, ensuring your equipment runs smoothly at all times. With expert repair services and customized solutions, these professionals help optimize performance and minimize downtime, empowering your operations.",
+      "statistics": [
+        { "number": "500+", "text": "Apps Delivered" },
+        { "number": "50+", "text": "Industries Served" },
+        { "number": "100+", "text": "Expert Developers" },
+        { "number": "24/7", "text": "Customer Support" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-gas-pump", "name": "Air Compressors", "description": "Supply and install efficient air compressors for continuous, high-performance air compression across industries." },
+        { "icon": "fa-solid fa-cloud-sun", "name": "Dryers", "description": "Provide moisture removal solutions with reliable air dryers to ensure clean, dry air supply." },
+        { "icon": "fa-solid fa-pipe", "name": "Airline Piping", "description": "Design and install durable airline piping systems for optimal compressed air distribution in industrial setups." },
+        { "icon": "fa-solid fa-cogs", "name": "Pneumatics", "description": "Offer pneumatic systems converting compressed air to mechanical power, enhancing automated processes and precision." },
+        { "icon": "fa-solid fa-industry", "name": "Diesel Generators", "description": "Provide sales, installation, and maintenance of diesel generators for reliable backup power solutions." },
+        { "icon": "fa-solid fa-tools", "name": "Installations", "description": "Professional installation services for compressors, dryers, pneumatic systems, and generators ensuring smooth operational performance." }
+      ],
+      "photos": [
+        "https://example.com/photos/smith1.jpg",
+        "https://example.com/photos/smith2.jpg"
+      ]
+    },
+
+    {
+     "tabs": ["ourMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Facilities"
+        }
+      ],
+      "personImage": "https://example.com/images/alex-jones.jpg",
+      "businessLogo": "https://example.com/logos/jones-law.png",
+      "personName": "Darshith N Gowda",
+      "businessName": "emdee inc",
+      "businessCategory": "Security Systems",
+      "category": "IT Support and Services",
+      "companyName": "emdee inc",
+      "phoneNumber": "+91 97398 01807",
+      "emailId": "info@emdeeinc.com",
+      "website": "www.emdeeinc.com",
+      "aboutHeading": "Shaping the Future with emdee inc.",
+      "aboutPara": "With over eight years of experience in the IT and security industry, Emdee Inc is committed to meeting the evolving needs of our customers with professionalism and precision. Our mission is to deliver high-quality IT solutions and security systems backed by exceptional customer service and reliable after-sales support. We pride ourselves on offering premium products, expert technical guidance, and cost-effective solutions tailored to each client’s unique requirements. At Emdee Inc, we believe in building long-term relationships based on trust, performance, and satisfaction—ensuring our clients receive continuous value and support throughout their journey with us.",
+      "statistics": [
+        { "number": "200+", "text": "Happy Clients" },
+        { "number": "10+", "text": "Services" },
+        { "number": "10+", "text": "Products" },
+        { "number": "8+", "text": "Satisfied Clients" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-desktop", "name": "Assembled Desktops and Laptops", "description": "Custom-built desktops and laptops tailored to meet specific performance, design, and budget requirements." },
+        { "icon": "fa-solid fa-laptop", "name": "Refurbished Desktops and Laptops", "description": "High-quality refurbished systems tested and certified for reliable performance at a lower cost." },
+        { "icon": "fa-solid fa-keyboard", "name": "Computer Accessories", "description": "Wide range of computer accessories including keyboards, mice, cables, and storage devices." },
+        { "icon": "fa-solid fa-screwdriver-wrench", "name": "Computer Annual Maintenance Contract (AMC)", "description": "Comprehensive AMC services ensuring timely maintenance and support for uninterrupted IT operations." },
+        { "icon": "fa-solid fa-network-wired", "name": "Networking", "description": "Complete networking solutions including LAN/WAN setup, configuration, and structured cabling for efficient communication." },
+        { "icon": "fa-solid fa-video", "name": "Security Surveillance System - CCTV", "description": "Installation of CCTV systems to monitor and secure residential, commercial, and industrial spaces." },
+        { "icon": "fa-solid fa-phone-volume", "name": "EPABX", "description": "EPABX systems for streamlined internal and external voice communication in offices and institutions." },
+        { "icon": "fa-solid fa-fingerprint", "name": "Biometric and Access Controller Systems", "description": "Secure entry solutions using biometric technology and access control for enhanced workplace safety." },
+        { "icon": "fa-solid fa-bullhorn", "name": "Public Address System", "description": "Effective public address systems for clear announcements in schools, offices, and public spaces." },
+        { "icon": "fa-solid fa-bell", "name": "Fire Alarm System", "description": "Reliable fire alarm systems that ensure early detection and prompt emergency response." }
+      ],
+      "photos": [
+        "https://example.com/photos/law1.jpg",
+        "https://example.com/photos/law2.jpg"
+      ]
+    },
+
+
+    {
+      "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Membership Committee"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Facilities"
+        }
+      ],
+      "personImage": "https://example.com/images/emily-clark.jpg",
+      "businessLogo": "https://example.com/logos/green-gardens.png",
+      "personName": "Suresh K",
+      "businessName": "Shaevitz",
+      "businessCategory": "Corporate Gifting",
+      "category": "Gifting",
+      "companyName": "Shaevitz",
+      "phoneNumber": "+91 90198 90651",
+      "emailId": "suresh@shaevitz.in",
+      "website": "www.shaevitz.in",
+      "aboutHeading": "Corporate Gifting Solutions for Employee Recognition & Team Events",
+      "aboutPara": "We specialize in providing thoughtful and customized gifting solutions tailored to corporate needs, helping companies express appreciation to their employees and teams. Whether it's for employee benefit programs, milestone rewards, festive celebrations, or team-building events, our curated gift options are designed to inspire, motivate, and strengthen workplace culture. From practical office essentials to premium lifestyle gifts, we ensure every item reflects your brand’s values and gratitude. With seamless delivery and personalization options, our gifting services help organizations build stronger relationships, boost morale, and leave a lasting impression on their teams.",
+      "statistics": [
+        { "number": "10", "text": "Years of Experience" },
+        { "number": "3000", "text": "Products" },
+        { "number": "15+", "text": "Awards Won" },
+        { "number": "30+", "text": "Clients" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-handshake", "name": "New Joiner Kit", "description": "Welcome new employees with curated gift kits that make them feel valued from day one." },
+        { "icon": "fa-solid fa-gift", "name": "Festival Gifts", "description": "Celebrate festivals by delighting employees with thoughtful and festive gifts, enhancing workplace joy." },
+        { "icon": "fa-solid fa-award", "name": "Long Service Awards and Gifts", "description": "Honor employee loyalty with premium gifts for 5, 10, 15+ years of dedicated service." }
+      ],
+      "photos": [
+        "https://example.com/photos/green1.jpg",
+        "https://example.com/photos/green2.jpg"
+      ]
+    },
+
+
+    {
+      "tabs": ["ourMembers"], 
+      "faqGroups": [
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Facilities"
+        }
+      ],
+      "personImage": "https://example.com/images/rohit-verma.jpg",
+      "businessLogo": "https://example.com/logos/rohit-edu.png",
+      "personName": "Munilakshmaiah",
+      "businessName": "Sri Thirumala Electricals",
+      "businessCategory": "Electrical Contractor",
+      "category": "Electricals",
+      "companyName": "Sri Thirumala Electricals",
+      "phoneNumber": "+91 99457 04277",
+      "emailId": "thirumalaele2008@gmail.com",
+      "website": "www.srithirumalaelectricals.com",
+      "aboutHeading": "Trusted Electrical Solutions with a Legacy of Excellence",
+      "aboutPara": "Established in 2008 under the visionary leadership of our founder Muniraju, Sri Thirumala Electricals has grown to become a trusted name in the city’s electrical industry. Backed by a team of highly experienced engineers and dedicated staff, we are known for delivering fast, efficient, and high-quality services across all our projects and contracts. Our strength lies in technical expertise, commitment to excellence, and unwavering values such as integrity, transparency, and respect. At Sri Thirumala Electricals, we welcome you with a bouquet of professional engineering solutions designed to meet your needs with precision and reliability.",
+      "statistics": [
+        { "number": "16+", "text": "Years of Experience" },
+        { "number": "6", "text": "Services" },
+        { "number": "200+", "text": "Happy Clients" },
+        { "number": "4.9", "text": "Average Rating" }
+      ],
+       "services": [
+        { "icon": "fa-solid fa-bolt", "name": "Electrical Work", "description": "Complete electrical layout, wiring, upgrades, and generator solutions for residential properties and custom homes." },
+        { "icon": "fa-solid fa-industry", "name": "Complex & Factory Wiring", "description": "Safe, code-compliant wiring services for industrial complexes and factories by certified professionals." },
+        { "icon": "fa-solid fa-network-wired", "name": "Network Wiring", "description": "Structured network cabling for voice, video, and data across residential and commercial environments." },
+         { "icon": "fa-solid fa-fire-extinguisher", "name": "Fire Alarm Wiring", "description": "Fire alarm system wiring to detect risks early and protect people and property from damage." },
+          { "icon": "fa-solid fa-video", "name": "CCTV", "description": "Professional CCTV installation and maintenance for homes, offices, and construction sites with advanced technology." },
+          { "icon": "fa-solid fa-tools", "name": "Maintenance Contractor", "description": "End-to-end electrical maintenance including HT/LT contracting, consulting, designing, and interlocking panel solutions." }
+      ],
+      "photos": [
+        "https://example.com/photos/learn1.jpg",
+        "https://example.com/photos/learn2.jpg"
+      ]
+    },
+
+
+    {
+      "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "President’s Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Health and Wellness"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Uma Shankarappa",
+      "businessName": "Telois",
+      "businessCategory": "Health & Wellness Products",
+      "category": "Healthcare & Wellness",
+      "companyName": "Telois",
+      "phoneNumber": "+91 96865 33842",
+      "emailId": "teloisuma9@gmail.com",
+      "website": "www.telois.com",
+      "role": "Power Team Coordinator, Weekly Presentation",
+      "aboutHeading": "Telois – Skincare on the Go for the Modern Man",
+      "aboutPara": "Telois is a purpose-driven skincare brand crafted exclusively for men who are always on the move. Rooted in nature and powered by cutting-edge skincare science, our products are designed to meet the grooming needs of today’s active lifestyle. We understand that once a man steps out of his home, access to self-care becomes limited—so we bring smart, portable skincare to him. At Telois, our mission goes beyond skincare; we aim to inspire men to embrace self-care as a key to confidence and success. With Telois, every man can look and feel his best—anytime, anywhere.",
+      "statistics": [
+        { "number": "5+", "text": "Years of Experience" },
+        { "number": "3", "text": "Products" },
+        { "number": "100+", "text": "Happy Visitors" },
+        { "number": "5-Star", "text": "Client Feedback" }
+      ],
+    "services": [
+        { "icon": "fa-solid fa-wind", "name": "Telois Men’s Brightening Wipes", "description": "Quick-refresh wipes for oily, tired skin—ideal during travel, work, or last-minute events." },
+        { "icon": "fa-solid fa-gift", "name": "Telois Men’s Makeover Face Kit", "description": "A perfect self-care gift with weekly masks that reduce tan, wrinkles, and brighten skin." },
+        { "icon": "fa-solid fa-mask", "name": "Telois Premium Gold Charcoal Mask", "description": "Gold charcoal mask designed for men—removes tan, revitalizes skin, suits all beard types." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+
+    {
+       "tabs": ["ourMembers", "leadershipTeam", "crorePathi", "bestPerformers"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Leadership Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Balaji Subramanyam",
+      "businessName": "Subram Builders",
+      "businessCategory": "Builder & Developer",
+      "category": "Constructions",
+      "companyName": "Subram Builders",
+      "phoneNumber": "+91 99450 58787",
+      "emailId": "balajiyes_2000@yahoo.com",
+      "role": "President",
+      "website": "www.subrambuilders.in",
+      "aboutHeading": "Bengaluru's Harmonious Urban Development",
+      "aboutPara": "At Subram Builders, our vision goes beyond constructing buildings; we aim to cultivate a philosophy that integrates modern living with nature, creating spaces where communities can flourish and environmental sustainability is prioritised. Being the leading real estate builders in Bangalore, we ensure that every resident experiences unmatched quality and an elevated standard of living.",
+      "statistics": [
+        { "number": "10+", "text": "Years of experience" },
+        { "number": "1,40,000+", "text": "Sq. Ft Delivered" },
+        { "number": "100+", "text": "Happy Customers" },
+        { "number": "4", "text": "Projects Completed" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-leaf", "name": "Eco-Friendly Residential Construction", "description": "Build sustainable homes using green materials, energy-efficient systems, and eco-conscious architectural practices." },
+        { "icon": "fa-solid fa-people-group", "name": "Community-Focused Townships", "description": "Design townships with green spaces and shared amenities that nurture vibrant, connected communities." },
+        { "icon": "fa-solid fa-solar-panel", "name": "Smart Sustainable Infrastructure", "description": "Integrate solar power, smart tech, and eco-systems for efficient, future-ready living environments." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+    {
+      "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Secretary Treasurer’s Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Mohammed Ziya",
+      "businessName": "Luxury Events Co.",
+      "businessCategory": "Soft Furnishing & Upholstery Furniture",
+      "category": "Furnitures",
+      "role" : "BNI Connect",
+      "companyName": "Melangge Fab Private Limited",
+      "phoneNumber": "+91 97393 91009",
+      "emailId": "ziya@melangeexports.co.in",
+      "website": "www.melangeexports.co.in",
+      "aboutHeading": "Welcome to Mélange Exports",
+      "aboutPara": "Unravelling the world of home furnishing, Mélange is a one stop shop /destination for window decoration and upholstery. Having taken up the concept of drapes and furnishing to a whole new level, Mélange has consistently brought forward a wide range of luxurious cells for your beautiful home. We are the manufacturers and stockiest of curtains, cushion covers, pillow covers, bed covers, bed sheets and varieties of fabrics which includes plain, dobby, jacquard, embroidery, prints, pintucks & special fabrics like light protection fabrics, lining fabrics and sound protection fabrics. We export our products to a wide range of customers globally, meeting their requirements with our enriched quality and performance. It is our highly dedicated technical team and innovative designing which enables us to define pure luxury along with style that Mélange is!",
+      "statistics": [
+        { "number": "30+", "text": "Years in Service" },
+        { "number": "100+", "text": "Products" },
+        { "number": "10+", "text": "Clients" },
+        { "number": "5-Star", "text": "Client Feedback" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-couch", "name": "Sofas", "description": "Stylish, ergonomic sofas designed for comfort and elegance to enhance your living space." },
+        { "icon": "fa-solid fa-chair", "name": "Recliners", "description": "Luxurious recliners offering adjustable support and relaxation for modern lifestyle and home comfort." },
+        { "icon": "fa-solid fa-window-maximize", "name": "Curtains & Blinds", "description": "Elegant curtains and blinds providing privacy, style, and light control for every room." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+     {
+      "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "President’s Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Ranganath L N",
+      "businessName": "Hallmark Protective & Decorative Coatings Pvt Ltd",
+      "businessCategory": "Speciality Coatings & Paint Manufacturer",
+      "category": "Painting Company",
+      "role" : "121 Coordinator",
+      "companyName": "Hallmark Protective & Decorative Coatings Pvt Ltd",
+      "phoneNumber": "+91 99860 50141",
+      "emailId": "hallmarkpaints@gmail.com",
+      "website": "www.hallmarkpaints.in",
+      "aboutHeading": "Hallmark Provides Exceptional Painting Services",
+      "aboutPara": "Hallmark Protective & Decorative Coatings Pvt. Ltd. is a Bangalore based MSME with affiliation to ISSPA (Indian Small Scale Paint Manufacturer's Association). We are an unique Multi-Speciality Coatings & Paint Manufacturing Company offering end-to-end solutions for all your painting needs. Be it for Building Protection or Decorative Coatings, the one stop shop is Hallmark.",
+      "statistics": [
+        { "number": "140K+", "text": "Projects Completed" },
+        { "number": "100+", "text": "Clients Served" },
+        { "number": "10+", "text": "Awards Won" },
+        { "number": "20+", "text": "Years of Experience" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-paint-roller", "name": "Decorative Paints", "description": "Enhance spaces with vibrant, stylish decorative paints for elegant, personalized interior and exterior finishes." },
+        { "icon": "fa-solid fa-flask", "name": "Speciality Coatings", "description": "Advanced coatings designed for durability, weather resistance, and tailored performance on diverse surfaces." },
+        { "icon": "fa-solid fa-brush", "name": "Textures", "description": "Artistic texture finishes that add depth, character, and uniqueness to your walls and surfaces." },
+         { "icon": "fa-solid fa-vials", "name": "Construction Chemicals", "description": "High-performance chemicals improving construction strength, waterproofing, bonding, and structural integrity." },
+          { "icon": "fa-solid fa-industry", "name": "Textures", "description": "Heavy-duty industrial paints offering protection against corrosion, chemicals, and extreme environmental conditions." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+      {
+      "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Secretary Treasurer’s Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Rejith Nair S",
+      "businessName": "Maxx Loans",
+      "businessCategory": "Loan Consultant",
+      "category": "Financial Services",
+      "role" : "Feature Presentation",
+      "companyName": "Maxx Loans",
+      "phoneNumber": "+91 990022 2886",
+      "emailId": "rejith.nair@ruloans.com",
+      "website": "www.ruloans.com",
+      "aboutHeading": "Expert Loan Consultancy Services",
+      "aboutPara": "Navigating the complexities of loans can be overwhelming—but with our expert loan consultancy services, you gain clarity and confidence. Whether you're seeking a home loan, business funding, or personal finance solutions, our consultants guide you every step of the way. We assess your financial profile, match you with the most suitable lenders, and ensure you secure competitive interest rates and favorable terms. Our goal is to simplify the process, save you time, and help you make informed financial decisions with ease. Trust us to be your reliable partner in achieving your financial goals.",
+      "statistics": [
+        { "number": "25+", "text": "Years of Experience" },
+        { "number": "275+", "text": "Partner Banks & NBFCs" },
+        { "number": "4,000+", "text": "Cities Across India" },
+        { "number": "₹1,00,000cr+", "text": "Successful Disbursal" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-house", "name": "Home Loan", "description": "Affordable home loans tailored to help you purchase your dream home with ease." },
+        { "icon": "fa-solid fa-building-columns", "name": "Loan Against Property", "description": "Unlock funds by pledging your residential or commercial property at competitive interest rates." },
+        { "icon": "fa-solid fa-user", "name": "Personal Loan", "description": " Quick personal loans to meet your emergency, travel, or lifestyle needs without collateral." },
+         { "icon": "fa-solid fa-briefcase", "name": "Business Loan", "description": "Flexible business loans to support expansion, working capital, or new startup ventures." },
+          { "icon": "fa-solid fa-graduation-cap", "name": "Education Loan", "description": "Finance your higher education or overseas studies with specialized education loan support and guidance." },
+           { "icon": "fa-solid fa-car", "name": "Car Loan", "description": "Easy and fast car loans for new or pre-owned vehicles at competitive interest rates." },
+             { "icon": "fa-solid fa-coins", "name": "Gold Loan", "description": "Get instant loans by pledging your gold jewellery with minimum documentation and attractive rates." },
+               { "icon": "fa-solid fa-credit-card", "name": "Credit Cards", "description": "Wide range of credit cards offering cashback, rewards, and exclusive lifestyle privileges." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+       {
+      "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Secretary Treasurer’s Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Silambarasan C",
+      "businessName": "Hema Cooling Systems",
+      "businessCategory": "HVAC - Heating & Air",
+      "category": "Financial Services",
+      "role" : "LVH",
+      "companyName": "Hema Cooling Systems",
+      "phoneNumber": ": +91 9742 614017",
+      "emailId": "hemacoolingsystems@gmail.com",
+      "website": "No",
+      "aboutHeading": "Expert HVAC Solutions for Comfortable Living & Efficient Spaces",
+      "aboutPara": "At Hema Cooling Systems, we specialize in delivering advanced HVAC (Heating, Ventilation, and Air Conditioning) solutions tailored to both residential and commercial needs. With a focus on energy efficiency, precision engineering, and climate-responsive systems, our services ensure optimal indoor comfort year-round. Whether it's installation, maintenance, or upgrading your existing setup, we provide reliable, cost-effective solutions that align with modern living standards. Backed by experienced professionals and quality equipment, Hema Cooling Systems is committed to creating healthier, more breathable environments while maximizing performance and reducing long-term operational costs. Experience the difference in air quality and thermal comfort with us.",
+      "statistics": [
+        { "number": "25+", "text": "Years of Experience" },
+        { "number": "275+", "text": "Partner Banks & NBFCs" },
+        { "number": "4,000+", "text": "Cities Across India" },
+        { "number": "₹1,00,000cr+", "text": "Successful Disbursal" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-snowflake", "name": "AC Installation & Replacement", "description": "Professional air conditioner setup ensuring efficient cooling and optimal system performance from day one." },
+        { "icon": "fa-solid fa-wind", "name": "Duct Cleaning & Air Purification", "description": "Thorough duct cleaning improves air quality, removes allergens, and ensures healthy airflow throughout your space." },
+        { "icon": "fa-solid fa-fire", "name": "Heating System Maintenance", "description": "Routine checks and servicing keep your heating systems running safely and efficiently during cold seasons." }
+       
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+       {
+      "tabs": ["ourMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Yallani R Jadhav",
+      "businessName": "Key Concepts Interiors",
+      "businessCategory": "Construction & Renovation",
+      "category": "Building Renovation & Remodeling",
+    
+      "companyName": "Key Concepts Interiors",
+      "phoneNumber": "+91 99005 42794",
+      "emailId": "yallanirjadhav@gmail.com",
+      "website": "www.keycorners.com",
+      "aboutHeading": "Turning Spaces into Meaningful Places",
+      "aboutPara": "At Key Corners, we believe that every space has the potential to become something extraordinary. As one of the best construction companies in Bangalore, our mission goes beyond brick and mortar — we craft homes that reflect your lifestyle and values. Whether it’s a sprawling villa or a compact studio, we make every corner count. With attention to detail, quality materials, and a passion for design, we transform ideas into timeless living environments. Because to us, a home is not just a building — it’s a feeling, a memory, and a legacy in the making.",
+      "statistics": [
+        { "number": "450+", "text": "Projects" },
+        { "number": "310+", "text": "Quality Checks" },
+        { "number": "25+", "text": "Years of Industry Experience" },
+        { "number": "4", "text": "Services" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-couch", "name": "Interior Designing", "description": "Transform spaces with creative interior designs that blend aesthetics, comfort, and personal style seamlessly." },
+        { "icon": "a-solid fa-hard-hat", "name": "Constructions", "description": "From concept to completion, we build strong, sustainable structures tailored to client vision and needs." },
+        { "icon": "fa-solid fa-hammer", "name": "Renovations", "description": "Upgrade existing spaces with modern features, smart layouts, and improved functionality to match today’s lifestyles." }
+       
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+      {
+       "tabs": ["ourMembers", "leadershipTeam", "crorePathi"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "Membership Committee"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Satheesh GR",
+      "businessName": "Nichu Interiors",
+      "businessCategory": "Structural Glazing and Cladding",
+      "category": "Interiors",
+      "role" : "Member Engagement Specialist",
+      "companyName": "Nichu Interiors",
+      "phoneNumber": "+91 98450 35368",
+      "emailId": "nichuinteriors@gmail.com",
+      "website": "No",
+      "aboutHeading": "Elevating Exteriors with Structural Glazing & Cladding Excellence",
+      "aboutPara": "At Nichu Interiors, we specialize in transforming building façades with premium Structural Glazing and Cladding solutions. Our approach goes beyond aesthetics—we focus on performance, safety, and long-term durability. Structural glazing offers a sleek, modern look using high-quality glass fixed without visible frames, creating smooth and seamless exteriors that exude sophistication. Paired with advanced cladding systems, our solutions provide weather resistance, thermal insulation, and protection from environmental stress. Whether it’s a commercial high-rise or a luxury residential project, we ensure every detail meets industry standards and architectural intent. Our team combines technical precision with innovative materials to deliver both beauty and resilience. With Nichu Interiors, your building isn’t just constructed—it’s crafted to stand out and stand strong. Trust us to redefine your exterior identity with our unmatched glazing and cladding expertise.",
+      "statistics": [
+        { "number": "450+", "text": "Projects" },
+        { "number": "310+", "text": "Quality Checks" },
+        { "number": "25+", "text": "Years of Industry Experience" },
+        { "number": "4", "text": "Services" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-couch", "name": "Interior Designing", "description": "Transform spaces with creative interior designs that blend aesthetics, comfort, and personal style seamlessly." },
+        { "icon": "a-solid fa-hard-hat", "name": "Constructions", "description": "From concept to completion, we build strong, sustainable structures tailored to client vision and needs." },
+        { "icon": "fa-solid fa-hammer", "name": "Renovations", "description": "Upgrade existing spaces with modern features, smart layouts, and improved functionality to match today’s lifestyles." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+
+     {
+       "tabs": ["ourMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Shruti Gupta",
+      "businessName": "Mahavastu",
+      "businessCategory": "Vastu Consultant",
+      "category": "Architectural & Vastu Consultancy",
+    
+      "companyName": "Mahavastu",
+      "phoneNumber": "+91 97382 16886",
+      "emailId": "shrutimahavastu@gmail.com",
+      "website": "www.mahavastushruti.com",
+      "aboutHeading": "Vaastu is now without Demolition",
+      "aboutPara": "I’m an MBA graduate from Bengaluru, born into a business-oriented family deeply rooted in Indian Vedic Sciences like Astrology and Vastu Shastra. Growing up, I witnessed various Vastu and astrology experts guiding my family, sparking my curiosity about the logical foundations behind these ancient practices. This curiosity led me to explore MahaVastu, where I uncovered that these sciences are rooted in ancient Indian Scriptures and were even embraced by kings of India. This discovery, motivated me to start my journey in this field where I became a certified Vastu Acharya, a certified trainer of MahaVastu in Feb 2020 and a Mentor in Jan 2021. I have been recognised and awarded as the Best Consultant South and Best Mentor South for the year 2022& 2023 by the founder of MahaVastu, Dr. Khushdeep Bansal. We work extensively on analysing the presence of 5 elements (Space, Water, Air, Fire and Earth), studying the attributes of 32 entrance effects and 16 zones (as against 8 directions), effects of various objects (like entrances, toilets, bed placement, burner, safe etc) placement and found ways of balancing them without making any structural changes/ Demolition ( since structural changes are impractical in the modern scenario of apartments and flats). In addition to this the correlation between  astrological readings and Vaastu have been established and hence now Vastu for any building can be customised based on the astrological readings of the occupants which is termed as Astro-Vastu. Having joined Dr.Khushdeep Bansal's core team in July 2021 provided me with the invaluable opportunity to work closely with him, the founder of MahaVastu, allowing me to refine my skills under the direct guidance of this esteemed figure in the field.",
+      "statistics": [
+        { "number": "6+", "text": "Years of Experience" },
+        { "number": "5", "text": "Services" },
+        { "number": "85+", "text": "Happy Clients" },
+        { "number": "10+", "text": "Awards Won" }
+      ],
+      "services": [
+        { "icon": "fa-solid fa-house-chimney", "name": "Vaastu for Residence", "description": "Residential Vastu Analysis: Comprehensive assessment of your home to identify areas for improvement and recommend practical Vastu remedies. New Home Design: Incorporate Vastu principles into the design of your new home to ensure optimal energy flow and alignment with cosmic forces. Existing Home Remediation: Implement corrective measures to realign and harmonize the energy of your existing residence, promoting positive change and transformation. Interior Design Guidance: Expert advice on interior décor and furnishing choices to enhance Vastu compliance and create a balanced living environment." },
+        { "icon": "fa-solid fa-drafting-compass", "name": "Vaastu for Builders", "description": "Project Evaluation: Comprehensive assessment of your builder project plans to identify Vastu-related considerations and opportunities for improvement. Design Consultation: Expert advice on building layout, orientation, and design features to maximize Vastu compliance and enhance energy flow. Construction Guidance: Support and guidance throughout the construction process to ensure that Vastu principles are integrated effectively into the building’s structure and materials. Property Promotion: Strategic guidance on marketing and promoting Vastu-compliant builder projects to attract buyers or tenants and maximize returns on investment." },
+        { "icon": "fa-solid fa-briefcase", "name": "Vaastu for Business", "description": "Commercial Space Analysis: Comprehensive assessment of your business premises to identify Vastu-related challenges and opportunities for improvement. Office Design Optimization: Expert advice on office layout, interior décor, and furniture placement to maximize productivity and prosperity. Business Remediation: Implement corrective measures to realign and harmonize the energy of your commercial space, promoting positive growth and transformation. Business Growth Strategies: Strategic guidance on leveraging Vastu principles to enhance business performance, expand market reach, and achieve sustainable growth." },
+        { "icon": "fa-solid fa-industry", "name": "Vaastu for Factories", "description": "Improved Production Efficiency: Optimize factory layout and equipment placement to streamline production processes and minimize waste. Enhanced Employee Morale: Create a positive and supportive work environment that promotes teamwork, collaboration, and job satisfaction among employees. Reduced Downtime: Identify and address Vastu-related factors that may contribute to equipment breakdowns, accidents, or disruptions in production. Cost Savings: Maximize resource utilization and minimize operational costs by aligning your factory with prosperity-enhancing Vastu principles. Business Growth: Position your factory for long-term success by leveraging Vastu principles to identify opportunities for expansion and development." },
+        { "icon": "fa-solid fa-store", "name": "Vastu for Showrooms & Offices", "description": "Increased Footfall & Sales: Attract more customers and enhance sales by aligning your showroom or office with positive cosmic energies. Improved Productivity: Optimize the layout and design of your workspace to boost employee morale, focus, and efficiency. Positive Brand Image: Create a professional and inviting atmosphere for clients, customers, and partners, enhancing your brand reputation and credibility. Financial Prosperity: Align your business space with prosperity-enhancing energies to attract abundance and success into your business. Harmonious Work Environment: Foster teamwork, collaboration, and employee satisfaction by creating a harmonious and supportive work environment." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+        {
+       "tabs": ["ourMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Rishabh S",
+      "businessName": "Design Destiny Interiors",
+      "businessCategory": "Interior Execution-Residential",
+      "category": "Interiors",
+      "role" : "Member Engagement Specialist",
+      "companyName": "Design Destiny Interiors",
+      "phoneNumber": "+91 86181 26544",
+      "emailId": "rishabh.srinivas13@gmail.com",
+      "website": "www.designdestinyinteriors.com",
+      "aboutHeading": "Transforming Houses into Elegant Homes",
+      "aboutPara": "At Design Destiny Interiors, we specialize in Interior Execution for Residential spaces, turning ordinary homes into extraordinary living environments. With a deep understanding of client needs and a keen eye for aesthetics, we bring concepts to life with precision and care. From layout planning and false ceiling installations to custom furniture, lighting, and wall treatments — every detail is thoughtfully executed. Our team blends functionality with style, ensuring that your space is not only visually stunning but also comfortable and practical. Whether you're revamping a single room or furnishing an entire villa, we handle every phase of the execution with professionalism, timely delivery, and unmatched craftsmanship. Trust us to deliver a personalized, hassle-free interior execution experience that reflects your taste and enhances your lifestyle. With Design Destiny Interiors, your dream home isn’t just imagined — it’s built.",
+      "statistics": [
+        { "number": "6+", "text": "Years of Experience" },
+        { "number": "3", "text": "Services" },
+        { "number": "85+", "text": "Happy Clients" },
+        { "number": "10+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-couch", "name": "Interior Designing", "description": "Transform spaces with creative interior designs that blend aesthetics, comfort, and personal style seamlessly." },
+        { "icon": "a-solid fa-hard-hat", "name": "Constructions", "description": "From concept to completion, we build strong, sustainable structures tailored to client vision and needs." },
+        { "icon": "fa-solid fa-hammer", "name": "Renovations", "description": "Upgrade existing spaces with modern features, smart layouts, and improved functionality to match today’s lifestyles." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+  {
+       "tabs": ["ourMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "T. S Handa",
+      "businessName": "Balaji interior",
+      "businessCategory": "Interior Execution-Residential",
+      "category": "Interiors",
+      "role" : "Member Engagement Specialist",
+      "companyName": "Balaji interior",
+      "phoneNumber": "+91 98452 34883",
+      "emailId": "balajiinteriors024@gmail.com",
+      "website": "No",
+      "aboutHeading": "Crafting Inspiring Workspaces with Precision and Style",
+      "aboutPara": "At Balaji Interior, we specialize in Interior Design for Commercial Spaces, creating environments that foster productivity, professionalism, and brand identity. From corporate offices and retail outlets to showrooms and hospitality venues, we design interiors that balance aesthetics with functionality. Our team works closely with clients to understand their business needs, culture, and goals — translating them into intelligent layouts, striking color schemes, ergonomic furniture, and efficient space planning. Every detail, from lighting to flooring, is thoughtfully curated to make a lasting impression on clients and employees alike. With a strong commitment to quality, timely execution, and design innovation, Balaji Interior transforms ordinary spaces into dynamic commercial environments that leave a mark. Whether you're launching a startup or renovating a legacy workspace, we ensure your space is as ambitious as your vision.",
+      "statistics": [
+        { "number": "6+", "text": "Years of Experience" },
+        { "number": "3", "text": "Services" },
+        { "number": "85+", "text": "Happy Clients" },
+        { "number": "10+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-couch", "name": "Interior Designing", "description": "Transform spaces with creative interior designs that blend aesthetics, comfort, and personal style seamlessly." },
+        { "icon": "a-solid fa-hard-hat", "name": "Constructions", "description": "From concept to completion, we build strong, sustainable structures tailored to client vision and needs." },
+        { "icon": "fa-solid fa-hammer", "name": "Renovations", "description": "Upgrade existing spaces with modern features, smart layouts, and improved functionality to match today’s lifestyles." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+     {
+       "tabs": ["ourMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "T. S Handa",
+      "businessName": "Balaji interior",
+      "businessCategory": "Interior Execution-Residential",
+      "category": "Interiors",
+      "role" : "Member Engagement Specialist",
+      "companyName": "Balaji interior",
+      "phoneNumber": "+91 98452 34883",
+      "emailId": "balajiinteriors024@gmail.com",
+      "website": "No",
+      "aboutHeading": "Crafting Inspiring Workspaces with Precision and Style",
+      "aboutPara": "At Balaji Interior, we specialize in Interior Design for Commercial Spaces, creating environments that foster productivity, professionalism, and brand identity. From corporate offices and retail outlets to showrooms and hospitality venues, we design interiors that balance aesthetics with functionality. Our team works closely with clients to understand their business needs, culture, and goals — translating them into intelligent layouts, striking color schemes, ergonomic furniture, and efficient space planning. Every detail, from lighting to flooring, is thoughtfully curated to make a lasting impression on clients and employees alike. With a strong commitment to quality, timely execution, and design innovation, Balaji Interior transforms ordinary spaces into dynamic commercial environments that leave a mark. Whether you're launching a startup or renovating a legacy workspace, we ensure your space is as ambitious as your vision.",
+      "statistics": [
+        { "number": "6+", "text": "Years of Experience" },
+        { "number": "3", "text": "Services" },
+        { "number": "85+", "text": "Happy Clients" },
+        { "number": "10+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-couch", "name": "Interior Designing", "description": "Transform spaces with creative interior designs that blend aesthetics, comfort, and personal style seamlessly." },
+        { "icon": "a-solid fa-hard-hat", "name": "Constructions", "description": "From concept to completion, we build strong, sustainable structures tailored to client vision and needs." },
+        { "icon": "fa-solid fa-hammer", "name": "Renovations", "description": "Upgrade existing spaces with modern features, smart layouts, and improved functionality to match today’s lifestyles." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+       {
+     "tabs": ["ourMembers", "leadershipTeam"], 
+      "faqGroups": [
+        {
+          "tab": "leadershipTeam",
+          "faqTitle": "President’s Team"
+        },
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Infra"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Pavan C A",
+      "businessName": "Pavan Architects",
+      "businessCategory": "Architect",
+      "category": "Architecture & Planning",
+      "role" : "Weekly Presentation",
+      "companyName": "Pavan Architects",
+      "phoneNumber": "+91 96866 69945",
+      "emailId": "pavanarchitects98@gmail.com",
+      "website": "No",
+      "aboutHeading": "Pavan Architects – Crafting Contextual, Innovative & Experiential Spaces with Design Excellence",
+      "aboutPara": "Pavan Architects, a multi-disciplinary architecture design firm based in Bangalore was founded  by Ar. Pavan C A. A pragmatic and holistic design practice specialising in various kinds of projects that provides a scope for a wide range of experimentation and exploration in architecture. The firm has ventured into redefining residential design of single and multi-dwelling houses, institutional, commercial and hospitality projects while providing custom designed spaces. Our practice is a collaborative endeavour inspired by a design ideology that combines form and function coupled with an innovative approach with a quest for pristine architectural design to create site responsive and contextually appropriate solutions. The key essence of our work is its ability to reinvent building typologies and play with the volume of spaces. Every project is effectively personalized and tailored around the exclusive brief received from each client. The firm assures the client a fresh approach that is ingenious and suits their every demand while providing a bespoke experience that results in stunning spaces. A seamless integration of natural elements in the spatial planning, forging an interactive dialogue between the built forms and surrounding environment are some of the outstanding features of the design process. Incorporating cutting edge structural forms, emphasizing on creative architectural details and significance on the workmanship quality and execution process are reflected in our projects. Strong attention is paid to details while blurring the lines between the tangibles and intangibles. With a distinction for conceiving exceptional spaces and an experiential design approach that attempts to modulate spaces, we at Pavan Architects offer the client a commitment to design excellence.",
+      "statistics": [
+        { "number": "3", "text": "Years of Experience" },
+        { "number": "5", "text": "Services" },
+        { "number": "30+", "text": "Happy Clients" },
+        { "number": "10+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-house-chimney", "name": "Residential Architecture", "description": "Custom-designed homes tailored to client lifestyles, blending aesthetics, function, and contextual relevance." },
+        { "icon": "fa-solid fa-building", "name": "Commercial Architecture", "description": "Designing efficient, brand-aligned commercial spaces that inspire productivity and business growth." },
+        { "icon": "fa-solid fa-hotel", "name": "Hospitality Design", "description": "Innovative, guest-centric architectural designs for hotels, resorts, and stay experiences with a lasting impression." },
+        { "icon": "fa-solid fa-school", "name": "Institutional Projects", "description": "Thoughtfully crafted educational and institutional spaces promoting interaction, creativity, and learning." },
+        { "icon": "fa-solid fa-ruler-combined", "name": "Interior Architecture", "description": "Seamless interior planning combining functionality, elegance, and bespoke design for immersive living experiences." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+        {
+     "tabs": ["ourMembers",  "crorePathi", "greenHero", "goldMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Manufacturing"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Adavesh Magdum",
+      "businessName": "Fleximage Technologies",
+      "businessCategory": "Industrial Automation & Metrology Products",
+      "category": "Smart Manufacturing Solutions",
+      "companyName": "Fleximage Technologies",
+      "phoneNumber": "+91 98455 92775",
+      "emailId": "adaveshm@fleximagetech.com",
+      "website": "www.fleximagetech.com",
+      "aboutHeading": "Driving Innovation in Industrial Automation & Software Solutions",
+      "aboutPara": "At Fleximage Technologies, we take pride in over two decades of excellence in delivering cutting-edge industrial automation and software solutions. Since 2002, we have consistently set new benchmarks by creating highly customized and result-oriented systems that serve global clients across diverse sectors. Our commitment to innovation, customer satisfaction, and unmatched service has earned us the recognition of being a Best Supplier from Toyota—twice. What sets us apart is not just our technology but the trust we build through consistent quality, 24×7 support, and a team of experienced professionals. By combining automation expertise with software innovation, we ensure our clients receive high ROI, scalable solutions, and lasting value. From startups to global enterprises, businesses rely on Fleximage for transformative results. We are not just service providers—we are long-term partners in your growth journey, committed to excellence and driven by passion.",
+      "statistics": [
+        { "number": "20", "text": "Years of Experience" },
+        { "number": "3", "text": "Services" },
+        { "number": "30+", "text": "Happy Clients" },
+        { "number": "20+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-laptop-code", "name": "Software Solutions", "description": "Custom software development tailored to automate processes, improve efficiency, and ensure digital transformation." },
+        { "icon": "fa-solid fa-robot", "name": "Industrial Automation", "description": "Advanced automation systems designed to streamline industrial operations and maximize production efficiency." },
+        { "icon": "fa-solid fa-sliders", "name": "Calibration Equipment", "description": "Precision calibration tools ensuring accurate measurement, compliance, and consistent performance across industrial applications." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+    
+        {
+     "tabs": ["ourMembers"], 
+      "faqGroups": [
+   
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Manufacturing"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Basavaraj Aragi",
+      "businessName": "Bluesky Polypack",
+      "businessCategory": "Polymers Packaging Manufacturer",
+      "category": "Polymers",
+      "companyName": "Bluesky Polypack",
+      "phoneNumber": "+91 99453 27069",
+      "emailId": "sales@blueskypolypack.com",
+      "website": "www.blueskypolypack.com",
+      "aboutHeading": "Innovative & Reliable Polymer Packaging Solutions",
+      "aboutPara": "Bluesky Poly Pack stands at the forefront of the polymer packaging manufacturing industry, delivering excellence through innovation and reliability. With a strong foundation built on years of industry expertise, we specialize in providing high-quality, durable, and cost-effective packaging solutions for a wide range of industries. Our commitment to precision, customer satisfaction, and eco-friendly practices sets us apart in a competitive market. Whether it’s customized packaging for industrial use or everyday consumer goods, our products are designed to meet the evolving needs of modern businesses. At Bluesky Poly Pack, we constantly invest in advanced technology and quality control systems to ensure consistency and performance in every product we deliver. With a customer-centric approach and a focus on sustainability, we aim to be your trusted partner in all things packaging—supporting your brand, protecting your products, and promoting smarter packaging choices for a better future.",
+      "statistics": [
+        { "number": "20", "text": "Years of Experience" },
+        { "number": "14", "text": "Products" },
+        { "number": "30+", "text": "Happy Clients" },
+        { "number": "20+", "text": "Awards Won" }
+      ],
+     "services": [
+        {
+    "icon": "fa-solid fa-paint-roller",
+    "name": "Printed Paint Bucket",
+    "description": "High-quality printed buckets for storing and branding paints effectively and safely."
+  },
+  {
+    "icon": "fa-solid fa-fill-drip",
+    "name": "Plain Paint Bucket",
+    "description": "Durable and plain plastic buckets ideal for storing various paint types efficiently."
+  },
+  {
+    "icon": "fa-solid fa-oil-can",
+    "name": "Lubricant Packs",
+    "description": "Leak-proof packs for automotive and industrial lubricants with durable, easy-to-handle design."
+  },
+  {
+    "icon": "fa-solid fa-drum",
+    "name": "Oil Bucket",
+    "description": "Sturdy buckets for storing edible and industrial oils with airtight sealing."
+  },
+  {
+    "icon": "fa-solid fa-seedling",
+    "name": "Fertilizer Granule Bucket",
+    "description": "Moisture-resistant buckets designed to safely store granular and powdered fertilizers."
+  },
+  {
+    "icon": "fa-solid fa-vial",
+    "name": "Epoxy Bucket",
+    "description": "Chemical-resistant containers for safely handling and storing industrial epoxy compounds."
+  },
+  {
+    "icon": "fa-solid fa-box",
+    "name": "Food Packages",
+    "description": "Food-grade packaging ensuring hygiene and freshness for various edible products."
+  },
+  {
+    "icon": "fa-solid fa-bowl-rice",
+    "name": "Ghee Bucket",
+    "description": "Airtight buckets to store ghee hygienically while retaining aroma and texture."
+  },
+  {
+    "icon": "fa-solid fa-cheese",
+    "name": "Curd Bucket",
+    "description": "Food-safe buckets perfect for bulk curd packaging and transport without spoilage."
+  },
+  {
+    "icon": "fa-solid fa-candy-cane",
+    "name": "Chocolate Bucket",
+    "description": "Attractive and safe packaging solution for chocolates, ideal for display and bulk sales."
+  },
+  {
+    "icon": "fa-solid fa-ice-cream",
+    "name": "Ice Cream",
+    "description": "Insulated plastic containers for storing and transporting ice cream efficiently."
+  },
+  {
+    "icon": "fa-solid fa-honey-pot",
+    "name": "Ghee, Honey & Peanut Butter",
+    "description": "Multi-purpose containers designed for sticky food items like honey and nut butter."
+  },
+  {
+    "icon": "fa-solid fa-jar",
+    "name": "Jam & Shrikhand Pack",
+    "description": "Leak-proof and food-safe jars for storing jam and traditional dairy products like shrikhand."
+  },
+  {
+    "icon": "fa-solid fa-bottle-droplet",
+    "name": "Edible Oil",
+    "description": "Safe, easy-to-pour containers for storing edible oils with spill-proof design."
+  }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+    {
+     "tabs": ["ourMembers",  "crorePathi", "greenHero", "goldMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Manufacturing"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Vinod Kumar SB",
+      "businessName": "Nova Packaging Company",
+      "businessCategory": "Industrial Automation & Metrology Products",
+      "category": "Coding & Packaging Machines",
+      "companyName": "Nova Packaging Company",
+      "phoneNumber": "+91 99009 68606",
+      "emailId": "vinod@novapacks.com",
+      "website": "www.fleximagetech.com",
+      "aboutHeading": "Driving Innovation in Industrial Automation & Software Solutions",
+      "aboutPara": "At Fleximage Technologies, we take pride in over two decades of excellence in delivering cutting-edge industrial automation and software solutions. Since 2002, we have consistently set new benchmarks by creating highly customized and result-oriented systems that serve global clients across diverse sectors. Our commitment to innovation, customer satisfaction, and unmatched service has earned us the recognition of being a Best Supplier from Toyota—twice. What sets us apart is not just our technology but the trust we build through consistent quality, 24×7 support, and a team of experienced professionals. By combining automation expertise with software innovation, we ensure our clients receive high ROI, scalable solutions, and lasting value. From startups to global enterprises, businesses rely on Fleximage for transformative results. We are not just service providers—we are long-term partners in your growth journey, committed to excellence and driven by passion.",
+      "statistics": [
+        { "number": "20", "text": "Years of Experience" },
+        { "number": "3", "text": "Services" },
+        { "number": "30+", "text": "Happy Clients" },
+        { "number": "20+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-laptop-code", "name": "Software Solutions", "description": "Custom software development tailored to automate processes, improve efficiency, and ensure digital transformation." },
+        { "icon": "fa-solid fa-robot", "name": "Industrial Automation", "description": "Advanced automation systems designed to streamline industrial operations and maximize production efficiency." },
+        { "icon": "fa-solid fa-sliders", "name": "Calibration Equipment", "description": "Precision calibration tools ensuring accurate measurement, compliance, and consistent performance across industrial applications." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    },
+
+    {
+     "tabs": ["ourMembers",  "crorePathi", "greenHero", "goldMembers"], 
+      "faqGroups": [
+       
+        {
+          "tab": "ourMembers",
+          "faqTitle": "Manufacturing"
+        }
+      ],
+      "personImage": "https://example.com/images/linda-ray.jpg",
+      "businessLogo": "https://example.com/logos/luxury-events.png",
+      "personName": "Vinod Kumar SB",
+      "businessName": "Nova Packaging Company",
+      "businessCategory": "Industrial Automation & Metrology Products",
+      "category": "Coding & Packaging Machines",
+      "companyName": "Nova Packaging Company",
+      "phoneNumber": "+91 99009 68606",
+      "emailId": "vinod@novapacks.com",
+      "website": "www.fleximagetech.com",
+      "aboutHeading": "Driving Innovation in Industrial Automation & Software Solutions",
+      "aboutPara": "At Fleximage Technologies, we take pride in over two decades of excellence in delivering cutting-edge industrial automation and software solutions. Since 2002, we have consistently set new benchmarks by creating highly customized and result-oriented systems that serve global clients across diverse sectors. Our commitment to innovation, customer satisfaction, and unmatched service has earned us the recognition of being a Best Supplier from Toyota—twice. What sets us apart is not just our technology but the trust we build through consistent quality, 24×7 support, and a team of experienced professionals. By combining automation expertise with software innovation, we ensure our clients receive high ROI, scalable solutions, and lasting value. From startups to global enterprises, businesses rely on Fleximage for transformative results. We are not just service providers—we are long-term partners in your growth journey, committed to excellence and driven by passion.",
+      "statistics": [
+        { "number": "20", "text": "Years of Experience" },
+        { "number": "3", "text": "Services" },
+        { "number": "30+", "text": "Happy Clients" },
+        { "number": "20+", "text": "Awards Won" }
+      ],
+     "services": [
+        { "icon": "fa-solid fa-laptop-code", "name": "Software Solutions", "description": "Custom software development tailored to automate processes, improve efficiency, and ensure digital transformation." },
+        { "icon": "fa-solid fa-robot", "name": "Industrial Automation", "description": "Advanced automation systems designed to streamline industrial operations and maximize production efficiency." },
+        { "icon": "fa-solid fa-sliders", "name": "Calibration Equipment", "description": "Precision calibration tools ensuring accurate measurement, compliance, and consistent performance across industrial applications." }
+      ],
+      "photos": [
+        "https://example.com/photos/event1.jpg",
+        "https://example.com/photos/event2.jpg"
+      ]
+    }
+  ]
+  

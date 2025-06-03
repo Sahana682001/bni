@@ -1,0 +1,264 @@
+.custom-tabs {
+    background-color: #CC2030;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 0.5rem;
+    overflow-x: auto;
+  }
+  
+  .custom-tab {
+    color: white;
+    background: transparent;
+    border: none;
+    padding: 0.75rem 1.25rem;
+    font-weight: 500;
+    transition: background-color 0.3s;
+    white-space: nowrap;
+    transition: 0.4s;
+  }
+
+  .custom-tab:hover {
+    background-color: white;
+    color: #6D737A !important;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .custom-tab.active {
+    background-color: white;
+    color: #6D737A !important;
+    border-radius: 10px 10px 0 0;
+    font-weight: bold;
+  }
+
+  .member-title {
+    font-size: 1.5rem;
+    color: #6c757d;
+  }
+  
+  .red-bold {
+    color: #CC2030;
+    font-weight: 700;
+  }
+  
+  .search-box {
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    min-width: 260px;
+    max-width: 100%;
+    position: relative;
+  }
+  
+  .search-box input {
+    flex: 1;
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .search-icon {
+    margin-left: 0.5rem;
+  }
+
+  .nav-tabs .nav-link {
+    color: white;
+  }
+
+  .faq-number {
+    font-weight: bold;
+  }
+  
+  .faq-title {
+    font-weight: bold;
+  }
+  
+/* Button styles */
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  transition: all 0.2s ease;
+}
+
+.btn-circle:hover {
+  transform: scale(1.1);
+}
+
+/* Plus button specific styles */
+.btn-outline-secondary.btn-circle {
+  border: 2px solid #CC2030;
+  color: #CC2030;
+  border-radius: 50px;
+  padding: 0;
+  font-weight: 700;
+}
+
+
+/* Times button specific styles */
+.btn-danger.btn-circle {
+  border: 2px solid #CC2030;
+  color: #ffffff;
+  border-radius: 50px;
+  padding: 0;
+  font-weight: 700;
+  background-color: #CC2030;
+}
+
+/* Jewelry Card Styles */
+.jewelry-card {
+  width: 100%;
+  background: #EDF0F5;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  height: 650px;
+}
+
+
+.card-images-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+.image-wrapper {
+  text-align: center;
+  width: 45%;
+}
+
+.image-container {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-alt-fallback {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f0f0f0;
+  font-weight: bold;
+}
+
+.image-caption {
+  margin: 8px 0 0;
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.card-details {
+  padding: 15px;
+}
+
+.detail-row {
+  display: flex;
+  margin-bottom: 10px;
+  margin-top: 8px;
+  align-items: flex-start;
+}
+
+.detail-label {
+  font-weight: 700;
+  color: #363A3D;
+}
+
+.detail-value {
+  color: #363A3D;
+  font-weight: 700;
+  padding-left: 7px;
+}
+
+.link {
+  color: #363A3D;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+
+.business-name {
+  background-color: #CC2030;
+  padding: 8px;
+  color: white;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.business-category {
+  color: #CC2030;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 8px;
+}
+
+.category {
+  background-color: #B2B4B7;
+  margin-top: 8px;
+  padding: 5px;
+  color: white;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 12px;
+}
+
+.card-buttons {
+  display: flex;
+  gap: 10px;
+  padding: 0 15px 15px;
+}
+
+.view-detail-btn {
+  flex: 1;
+  padding: 10px;
+  background: #CC2030;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.referral-btn {
+  flex: 1;
+  padding: 10px;
+  background: #64676B;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+input:focus {
+  border: 2px solid #CC2030 !important;
+  outline: 0 !important;
+}
+
+
+  
+  

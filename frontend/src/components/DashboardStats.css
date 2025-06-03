@@ -1,0 +1,12 @@
+.dashboard-stats .stat-card {
+  background: #fff;
+  border-radius: 15px;
+  min-height: 100px;
+}
+
+.dashboard-stats .stat-icon {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  font-size: 1.4rem;
+}

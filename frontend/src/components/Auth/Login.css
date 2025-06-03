@@ -1,0 +1,30 @@
+.login-image {
+  background: url('../../asset//loginbanner.png') no-repeat center center;
+  background-size: cover;
+}
+
+.login-box {
+  width: 100%;
+  max-width: 400px;
+  padding: 30px;
+}
+
+.brand-name {
+  font-weight: bold;
+}
+
+.resend-otp {
+  color: #dc3545;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+@media (max-width: 767.98px) {
+  .login-box {
+    padding: 15px;
+  }
+}
+
+.btn-danger {
+    background-color: #CC2030 !important;
+}

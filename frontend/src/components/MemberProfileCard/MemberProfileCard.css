@@ -1,0 +1,94 @@
+.member-profile-card {
+    height: auto;
+    padding: 50px 0 !important;
+    background-color: white;
+  }
+  
+  .member-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .business-type {
+    margin: 0;
+    color: #333;
+    font-size: 24px;
+    font-weight: normal;
+  }
+  
+  .member-name {
+    margin: 5px 0 0 0;
+    color: #222;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .referral-button {
+    background-color: #d4af37;
+    color: white;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    align-self: center;
+    cursor: pointer;
+  }
+  
+  .divider {
+    border-top: 1px solid #e0e0e0;
+    margin: 10px 0;
+    border-bottom: none;
+  }
+  
+  .info-section {
+    display: flex;
+    gap: 40px;
+  }
+  
+  .left-column {
+    flex: 1;
+  }
+  
+  .right-column {
+    flex: 1;
+  }
+  
+  .ways-heading {
+    margin: 0 0 10px 0;
+    color: #555;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .business-name {
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .company-text {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .contact-item {
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+  }
+  
+  .contact-icon {
+    color: #666;
+    min-width: 20px;
+  }
+  
+  .spacer {
+    margin-bottom: 15px;
+  }
+  
